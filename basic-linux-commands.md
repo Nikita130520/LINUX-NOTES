@@ -113,8 +113,12 @@ uname : it will print the system info.
 syn:
 
 uname -o : it will print the o.s
+
 uname -v : to know version
+
 uname -r : about kernel release
+
 uname -m : about machine
+
 uname -a : to print all info. about system.
 
