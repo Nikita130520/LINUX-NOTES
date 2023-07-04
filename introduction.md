@@ -3,22 +3,33 @@ LINUX
 AGENDA
 ----------
 operating system
+
 types of software
+
 archetecture of o.s
 
 what is linux
+
 history of linux
+
 structure of linux
+
 diff. b/w linux and windows
 
 basic linux commands
 
 user management
+
 linux group
+
 file management
+
 file permission
+
 file extraction
+
 pipeline
+
 filters commands
 
 crontab
