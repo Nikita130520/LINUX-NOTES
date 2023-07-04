@@ -135,5 +135,5 @@ WINDOWS : closed source
 commands
 -------------
 
-it is a way to give intruction to system.
+it is a way to give instruction to system.
 
