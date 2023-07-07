@@ -2,11 +2,11 @@ basic linux commands
 -------------------------
 1. touch : to create an empty file.
 
-syn: touch <filename>
+syn: touch filename
 
 2. mkdir : (make directory) to create directory.
 
-syn: mkdir <directory name>
+syn: mkdir directory-name
 
 
 3. ls : to list out all the files and directories.
@@ -15,7 +15,7 @@ syn: ls
 syn: ls -l
 
 4. cd : change directory --> to go inside a particular folder.
-syn:  cd <dir-name>
+syn:  cd dir-name
 
 syn: cd ..   ---> to come outside a directory.
 
@@ -31,7 +31,7 @@ vi, vim, nano : to edit the text of the files.
 
 1. vi : 
 
-syn: vi <filename>
+syn: vi filename
 
 press I to insert anything
 
@@ -41,7 +41,7 @@ w ----> to save
 q ----> to quite
 
 2. nano :
-syn:  nano <filename>
+syn:  nano filename
 
 edit the text
 
@@ -54,7 +54,7 @@ cntrl x : to exit
 9. cat 
 --------
 
-1. cat <filename>  : it will print the content of the file.
+1. cat filename  : it will print the content of the file.
 
 2. cat >filename  : it will override the content present in file
 
@@ -73,24 +73,24 @@ syn: mv  src-dir/filename dest. dir
 
 13. mv : to rename the directory.
 
-syn: mv <oldname> <new>
+syn: mv oldname new
 
 
 14. rm : remove : to delete a file
 
-syn: rm <filename>
+syn: rm filename
 
 15. rmdir : remove directory : to delete an empty directory.
 
-syn: rmdir <dir-name>
+syn: rmdir dir-name
 
 16. rm -r : to delete the dir. having sub-dir. inside it.
-syn: rm -r <dir-name>
+syn: rm -r dir-name
 
 17. rm -rf : to delete directory and files forcefully.
-syn: rm -rf < dir/file-name>
+syn: rm -rf  dir/file-name
 
-18. rm *.<extension>  ---> to delete multiple files having same extension at the same time.
+18. rm *.extension ---> to delete multiple files having same extension at the same time.
 
 19. echo : to print the content.
 
@@ -100,8 +100,8 @@ syn: echo "messege"
 20. cal : calender : to print calender.
 
 syn: cal : it will print present month
-syn: cal <year> : it will print whole calender of that specific year.
-syn: cal <month> <year> : it will print specified month of the year.
+syn: cal year : it will print whole calender of that specific year.
+syn: cal month year : it will print specified month of the year.
 
 21. date : it will print the date.
 
