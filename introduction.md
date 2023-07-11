@@ -63,19 +63,29 @@ ex: ms office.t
 COMPONENTS OF OPERATING SYSTEM
 ---------------------------------
 Process management
+
 File management
+
 Input-Output device management
+
 Memory Management
+
 Security Management
 
 DIFFERENT TYPES OF O.S
 ---------------------------
 LINUX
+
 WINDOWS
+
 MAC OS
+
 APPLE
+
 BLACKBERRY
+
 ANDROID
+
 MSDOS
 
 WHAT IS LINUX
