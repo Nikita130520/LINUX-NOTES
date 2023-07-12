@@ -21,7 +21,7 @@ syn: route
 6. host : convert DNS into IP adress & vice-versa
 
 7. nslookup : to query about DNS server.
-syn: nslookup <domain-name>
+syn: nslookup domain-name
 
 8. last : it display information about last logged in user
 
