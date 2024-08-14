@@ -33,4 +33,6 @@ it show kernel arp table.
 10. hostname -i  : IP address
 11. hostame -d   : domain name
 
+12. IP --> to check the ip-adress
+13. iptable --> 
 
