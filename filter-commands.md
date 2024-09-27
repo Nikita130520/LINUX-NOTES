@@ -37,7 +37,7 @@ syn:  find <filename>
 
 it filter the content of a file which make our search easy.
 
-syn: grep <searchword> filename
+syn: grep searchword filename
 
 8. sed : stream editor 
 
